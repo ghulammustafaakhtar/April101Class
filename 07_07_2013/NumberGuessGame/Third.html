@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script>
+
+        var value = Math.random()*10;
+        var number = Math.round(value);
+        alert(number);
+
+        var playAgainInput = true;
+        var falseIteration = 0;
+        do {
+            var userInput = parseInt(prompt("Guess a number between 1 to 10"));
+            if(number == userInput){
+                alert("You Win!!!");
+                break;
+            }
+            else {
+                falseIteration++;
+                if(falseIteration==3){
+                    alert("Buhat hogaya ab nikloo");
+                    break;
+                }
+                alert("Try Again :D :D !!!");
+                playAgainInput = confirm("Do you want to try one more time");
+            }
+        }while(playAgainInput);
+
+
+
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>
