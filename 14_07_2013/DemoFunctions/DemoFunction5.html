@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script>
+        function calculatePercentage(x) {
+            var a = x /50*100;
+            alert("Your precentage is "+a);
+            return a;
+        }
+
+        var userInput = prompt("Enter your score");
+        var score = parseInt(userInput);
+
+        var result = calculatePercentage(score);
+        var grade = findGrade(result);
+        alert(grade);
+
+        function findGrade(percentage){
+            if(percentage>=40 && percentage<60){
+                return "C Grade";
+            }
+            else if(percentage>=60 && percentage<80){
+                return "B Grade";
+            }
+            else if(percentage>=80){
+                return "A Grade";
+            }
+            else {
+                return "Failed";
+            }
+        }
+
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>
