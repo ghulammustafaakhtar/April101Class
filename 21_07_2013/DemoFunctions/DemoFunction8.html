@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script>
+        var a = 6;
+        alert("A = "+a);
+        function doSomeWork(){
+            alert("in doSomework");
+            //hello();
+            var hello = function(){
+                alert("hello");
+            }
+            alert("after hello");
+            return hello;
+        }
+        var result = doSomeWork();
+        alert(result);
+        result();
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>
