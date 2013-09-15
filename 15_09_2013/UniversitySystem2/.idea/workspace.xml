@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0887ab2a-2105-4e0a-8c52-342f3260e871" name="Default" comment="" />
-    <ignored path="UniversitySystem.iws" />
+    <list default="true" id="b259fbcb-f6a2-4c62-9d12-216969caadc5" name="Default" comment="" />
+    <ignored path="UniversitySystem2.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,37 +20,29 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="university.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/university.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="1" selection-start="251" selection-end="251" vertical-scroll-proportion="0.45698926">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="UniversitySystem.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UniversitySystem.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="42" selection-start="397" selection-end="410" vertical-scroll-proportion="0.0">
+            <state line="8" column="9" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="university.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/university.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="18" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="universitySystem.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="universitySystem.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/universitySystem.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="0" selection-start="1918" selection-end="1918" vertical-scroll-proportion="0.03046595">
-              <folding>
-                <element signature="n#!!doc;n#appStart#0" expanded="false" />
-                <element signature="n#!!block;n#validate#0" expanded="false" />
-                <element signature="n#!!block;n#RunSample#0" expanded="false" />
-                <element signature="n#!!block;n#addToTable#0" expanded="false" />
-                <element signature="n#!!block;n#addDeleteButton#0" expanded="false" />
-                <element signature="n#!!block;n#addColumnToRow#0" expanded="false" />
-                <element signature="n#!!block;n#showHideTable#0" expanded="false" />
-              </folding>
+            <state line="72" column="5" selection-start="2025" selection-end="2025" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,17 +99,17 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UniversitySystem" />
+              <option name="myItemId" value="UniversitySystem2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UniversitySystem" />
+              <option name="myItemId" value="UniversitySystem2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UniversitySystem" />
+              <option name="myItemId" value="UniversitySystem2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -129,8 +121,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../April201/April201Class/08_09_2013/Angular1" />
-    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Data/WebProject/ShowCase" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ZeeshanHanif\SSUETClasses\101April2013\April101Class\15_09_2013\UniversitySystem2" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="" coffeescript-run="false">
@@ -141,20 +137,20 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0887ab2a-2105-4e0a-8c52-342f3260e871" name="Default" comment="" />
-      <created>1378622654303</created>
-      <updated>1378622654303</updated>
+      <changelist id="b259fbcb-f6a2-4c62-9d12-216969caadc5" name="Default" comment="" />
+      <created>1379229270140</created>
+      <updated>1379229270140</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26073927" sideWeight="0.7787307" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14285715" sideWeight="0.7787307" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39965695" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -222,90 +218,45 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UniversitySystem.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="42" selection-start="397" selection-end="410" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/university.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="18" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universitySystem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="0" selection-start="1918" selection-end="1918" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc;n#appStart#0" expanded="false" />
-            <element signature="n#!!block;n#validate#0" expanded="false" />
-            <element signature="n#!!block;n#RunSample#0" expanded="false" />
-            <element signature="n#!!block;n#addToTable#0" expanded="false" />
-            <element signature="n#!!block;n#addDeleteButton#0" expanded="false" />
-            <element signature="n#!!block;n#addColumnToRow#0" expanded="false" />
-            <element signature="n#!!block;n#showHideTable#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UniversitySystem.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="42" selection-start="397" selection-end="410" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/university.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="18" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universitySystem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="0" selection-start="1918" selection-end="1918" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc;n#appStart#0" expanded="false" />
-            <element signature="n#!!block;n#validate#0" expanded="false" />
-            <element signature="n#!!block;n#RunSample#0" expanded="false" />
-            <element signature="n#!!block;n#addToTable#0" expanded="false" />
-            <element signature="n#!!block;n#addDeleteButton#0" expanded="false" />
-            <element signature="n#!!block;n#addColumnToRow#0" expanded="false" />
-            <element signature="n#!!block;n#showHideTable#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/university.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="18" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
+        <state line="5" column="23" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UniversitySystem.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="42" selection-start="397" selection-end="410" vertical-scroll-proportion="0.0">
+        <state line="8" column="9" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/universitySystem.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="0" selection-start="1918" selection-end="1918" vertical-scroll-proportion="0.03046595">
-          <folding>
-            <element signature="n#!!doc;n#appStart#0" expanded="false" />
-            <element signature="n#!!block;n#validate#0" expanded="false" />
-            <element signature="n#!!block;n#RunSample#0" expanded="false" />
-            <element signature="n#!!block;n#addToTable#0" expanded="false" />
-            <element signature="n#!!block;n#addDeleteButton#0" expanded="false" />
-            <element signature="n#!!block;n#addColumnToRow#0" expanded="false" />
-            <element signature="n#!!block;n#showHideTable#0" expanded="false" />
-          </folding>
+        <state line="72" column="5" selection-start="2025" selection-end="2025" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/universitySystem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="5" selection-start="2025" selection-end="2025" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UniversitySystem.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="9" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/university.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="1" selection-start="251" selection-end="251" vertical-scroll-proportion="0.45698926">
+          <folding />
         </state>
       </provider>
     </entry>

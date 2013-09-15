@@ -1,0 +1,16 @@
+
+.tableColumn{
+    width: 50%;
+}
+
+#updateStudentInfoDiv {
+    position: absolute;
+    left: 300px;
+    top: 200px;
+    width: 300px;
+    height: 200px;
+    background-color: #add8e6;
+    border-color: red;
+    border-radius: 10px;
+    display: none;
+}

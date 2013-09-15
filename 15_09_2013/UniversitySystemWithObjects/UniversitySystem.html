@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>University System</title>
+    <link rel="stylesheet" type="text/css" href="university.css">
+</head>
+<body>
+<div id="updateStudentInfoDiv">
+    <h2>Update Student Info</h2>
+    Name: <input type="text" id="updateName"><br>
+    Age : <input type="text" id="updateAge"><br>
+    <input type="button" id="updateStudent" value="Update Student">
+    <input type="button" id="cancelUpdateStudent" value="Cancel">
+</div>
+
+
+<div id="inputDiv">
+
+    Name: <input type="text" id="name" placeholder="Enter Name"><br>
+    Age : <input type="text" id="age" placeholder="Enter Age"><br>
+    <input type="button" id="addStudent" value="Add Student">
+    <input type="button" id="showInfo" value="Show Info">
+</div>
+
+<br>
+<hr>
+
+<div id="studentData">
+
+    <table id="studentDataTable" border="1">
+        <thead>
+            <tr>
+                <th class="tableColumn">
+                    Name
+                </th>
+                <th>
+                    &nbsp;
+                </th>
+                <th class="tableColumn">
+                    Age
+                </th>
+                <th>
+                    Id
+                </th>
+                <th>
+                    Edit
+                </th>
+                <th>
+                    Delete
+                </th>
+            </tr>
+        </thead>
+        <tbody id="studentTableBody">
+
+
+        </tbody>
+    </table>
+
+</div>
+
+
+<script src="Student.js"></script>
+<script src="University.js"></script>
+<script src="universitySystem.js"></script>
+</body>
+</html>
